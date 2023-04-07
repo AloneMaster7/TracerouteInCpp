@@ -1,3 +1,3 @@
-# TracerouteInCpp (Soon...)
+# TracerouteInCpp
 
-A program which its functionality is like traceroute command. At first you have to enter the host(ip or hostname).
+Source code of program which its functionality is like traceroute command. At first you have to enter the host(ip or hostname).
